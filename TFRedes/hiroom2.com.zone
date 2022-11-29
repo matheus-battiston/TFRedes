@@ -1,0 +1,15 @@
+$TTL 86400
+
+
+@ IN SOA amazon.com root.amazon.com (
+  2018050600
+  3600
+  900
+  604800
+  86400
+)
+
+@      IN NS server
+server IN A  192.168.0.46
+client IN A  192.168.0.15
+www IN A 142.251.129.228

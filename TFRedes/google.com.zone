@@ -1,0 +1,13 @@
+$TTL 86400
+
+@ IN SOA google.com. root.google.com. (
+  2018050600
+  3600
+  900
+  604800
+  86400
+)
+
+@      IN NS www.google.com.
+www IN A  98.137.11.163
+ IN A 98.137.11.163
